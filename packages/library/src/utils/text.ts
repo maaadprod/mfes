@@ -1,0 +1,1 @@
+export const getText = () => `Get this text!`;
